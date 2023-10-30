@@ -1,0 +1,389 @@
+body {
+    
+    margin: 0%;
+}
+.h {
+    width: 100%;
+    height: 15%;
+    background-image: url("ekbnotch.png");
+    position: relative;
+}
+.gerb {
+    width: 25%;
+    height: 75%;
+    margin-top:2%;
+}
+.e {
+    color: green;
+}
+.dop {
+    color: white;
+    margin-top:10%;
+}
+.hl {
+    float: left;
+    width: 33%;
+    height: 50%;
+    font-size: 300%;
+    margin-top: 2%;
+}
+.hr {
+    margin-right:1%;
+    float: right;
+    width: 33%;
+    height: 100%;
+    font-size: 200%;
+    text-align: right;
+}
+.m1 {
+    margin-left: 10.5%;
+    float: left;
+    margin-top: 1.5%
+}
+
+
+.provodnik {
+    width: 100%;
+    height: 10.2%;
+    margin-bottom: 2%;
+    background: linear-gradient(#142DB7, #5161B1);
+    text-align: center;
+    position: relative;
+}
+
+.photo1{
+    width:30%;
+    height:30%;
+
+}
+
+.glav {
+    float: left;
+    position: relative;
+    width: 16%;
+    height: 100%;
+    text-align: center;
+    
+}
+.new {
+    float: left;
+    width: 20%;
+    height: 100%;
+    text-align: center;
+    margin-left: 0.25%;
+    position: relative;
+}
+.istor {
+    float: left;
+    width: 20%;
+    height: 100%;
+    text-align: center;
+    margin-left: 0.25%;
+    position: relative;
+}
+.dost {
+    float: left;
+    width: 20%;
+    height: 100%;
+    text-align: center;
+    margin-left: 0.25%;
+    position: relative;
+}
+
+.cont {
+    float: left;
+    width: 20%;
+    height: 100%;
+    text-align: center;
+    margin-left: 0.25%;
+    position: relative;
+}
+.text + car {
+    width: 100%;
+    height: 20%;
+    position: relative;
+}
+.zagl {
+    font-size: 250%;
+    text-align: center
+}
+.opis {
+    width: 90%;
+    font-size: 150%;
+    text-align: center;
+    margin-left:5%;
+}
+.cartinki {
+    width: 90%;
+    height: 20%;
+    margin-left: 3.5%;
+}
+.karta {
+    float: right;
+    width: 50%;
+    height: 100%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.metro {
+    float: left;
+    width: 100%;
+    height: 100%;
+    margin-left: 5%;
+    margin-top: -11%;
+}
+.kartinka1 {
+    width: 75%;
+    height: 200%;
+}
+.kartinka2 {
+    width: 15%;
+    height: 200%;
+}
+.podval {
+    margin-top: 25%;
+    width: 100%;
+    height: 15%;
+    background: linear-gradient( #666A91, #142DB7);
+    color: snow;
+    position: relative;
+}
+.mail {
+    margin-top: 2.25%;
+    margin-left: 2.5%;
+    float: left;
+}
+
+.tel {
+    margin-left: -10%;
+    margin-top: 3.5%;
+    float: left;
+}
+
+.prav {
+    margin-right: 2.5%;
+    margin-top: 5%;
+    float: right;
+}
+.b0 {
+    background: transparent;
+    border: none;
+    color: white;
+    padding: 0.4% 0.8%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 150%;
+    cursor: pointer;
+    position: relative;
+}
+.opis1 {
+    width: 90%;
+    font-size: 175%;
+    text-align: center;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.zagl_new {
+    width:80%;
+    margin-left: -5%;
+    font-size: 200%;
+    text-align: center
+}
+.strelka {
+    width: 20%;
+ 
+    float: left;
+}
+.strelka_photo {
+    width: 20%;
+    height: 20%;
+}
+.b {
+    
+    line-height:110%;
+}
+.b1 {
+    background: linear-gradient(#142DB7, #5161B1);
+    border: none;
+    color: white;
+    padding: 1.2% 2%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 150%;
+    cursor: pointer;
+   
+    width: 100%;
+}
+.b2 {
+    background: linear-gradient(#142DB7, #5161B1);
+    border: none;
+    color: white;
+    padding: 9.5% 5%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 150%;
+    cursor: pointer;
+  
+}
+.b3 {
+    background: linear-gradient(#142DB7, #5161B1);
+    border: none;
+    color: white;
+    padding: 9.5% 5%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 150%;
+    cursor: pointer;
+    
+}
+.b4 {
+    background: linear-gradient(#142DB7, #5161B1);
+    border: none;
+    color: white;
+    padding: 9.5% 5%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 150%;
+    cursor: pointer;
+    
+}
+.b5 {
+    background: linear-gradient(#142DB7, #5161B1);
+    border: none;
+    color: white;
+    padding: 9.5% 5%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 150%;
+    cursor: pointer;
+   
+}
+.b21 {
+    background: #1B5C6D;
+    border: none;
+    color: white;
+    padding: 9.5% 5%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 150%;
+   
+}
+.b31 {
+    background: #1B5C6D;
+    border: none;
+    color: white;
+    padding: 9.5% 5%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 150%;
+    
+}
+.b41 {
+    background: #1B5C6D;
+    border: none;
+    color: white;
+    padding: 9.5% 5%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 150%;
+    
+}
+.b51 {
+    background: #1B5C6D;
+    border: none;
+    color: white;
+    padding: 9.5% 5%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 150%;
+    
+}
+.new_photo {
+    width: 90%;
+    height: 25%;
+    margin-top: 9.5%;
+    margin-left: 9.5%;
+    margin-bottom:3.5%;
+}
+.new_photo1 {
+    float: left;
+    position: relative;
+    width:33%;
+    height:100%;
+}
+.new_text1 {
+    position: absolute;
+    top: 20%;
+    left: 5%;
+    text-transform: uppercase;
+    color: white;
+    width: 60%;
+    background: #00000094;
+    padding: 0.5%;
+    text-align: center;
+    font: bold 24px/34px Helvetica, Sans-Serif;
+}
+.new_photo2 {
+    float: left;
+    position: relative;
+    width: 33%;
+    height: 100%;
+}
+
+.new_text2 {
+    position: absolute;
+    top: 20%;
+    left: 7%;
+    text-transform: uppercase;
+    color: white;
+    width: 60%;
+    background: #00000094;
+    padding: 0.5%;
+    text-align: center;
+    font: bold 24px/34px Helvetica, Sans-Serif;
+}
+.new_photo3 {
+    float: left;
+    position: relative;
+    width: 33%;
+    height: 100%;
+}
+
+.new_text3 {
+    position: absolute;
+    top: 20%;
+    left: 7%;
+    text-transform: uppercase;
+    color: white;
+    width: 60%;
+    background: #00000094;
+    padding:0.5%;
+    text-align: center;
+    font: bold 24px/34px Helvetica, Sans-Serif;
+}
+.photo2 {
+    width: 75%;
+    height: 100%;
+}
+.photo3 {
+    width: 75%;
+    height: 100%;
+}
+.photo4 {
+    width: 75%;
+    height: 100%;
+}
+.silki{
+    color:white;
+
+}
